@@ -5,7 +5,7 @@
 Please note that this project was developed as part of a formal, collaborative academic program. Due to the nature of this partnership, the full source code is not publicly available. This repository serves as a professional portfolio piece to document and showcase the project's conceptual architecture, the AI workflow, and my role in its design.
 
 ## 1. Summary
-This project is a prototype design for a "Bilingual Campus Regulation Translation System". The system aims to solve information asymmetry and potential conflicts on bilingual campuses caused by language barriers. It is more than just a translation tool; it is a solution rooted in the "Humanity AI" concept. The primary goal is to protect the fundamental rights of all campus members (especially international students and faculty) by providing accurate, high-quality translations of regulations, thereby promoting social equity and harmony.
+This project is an end-to-end "Bilingual Campus Regulation Translation System" for National Kaohsiung University of Science and Technology. I engineered a sophisticated pipeline integrating RAG and Auto Chain-of-Thought prompting technique to ensure legal precision and stylistic consistency. By implementing a Human-in-the-Loop feedback mechanism, the system continuously optimizes its translation accuracy, effectively reducing legal risks and promoting campus social justice.
 
 ## 2. Context & Objective
 
