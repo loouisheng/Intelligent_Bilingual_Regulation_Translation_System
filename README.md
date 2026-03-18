@@ -4,10 +4,10 @@
 
 Please note that this project was developed as part of a formal, collaborative academic program. Due to the nature of this partnership, the full source code is not publicly available. This repository serves as a professional portfolio piece to document and showcase the project's conceptual architecture, the AI workflow, and my role in its design.
 
-## 1. Summary
+## Summary
 This project is an end-to-end "Bilingual Campus Regulation Translation System" for National Kaohsiung University of Science and Technology. I engineered a sophisticated pipeline integrating RAG and Auto Chain-of-Thought prompting technique to ensure legal precision and stylistic consistency. By implementing a Human-in-the-Loop feedback mechanism, the system continuously optimizes its translation accuracy, effectively reducing legal risks and promoting campus social justice.
 
-## 2. Context & Objective
+## Context & Objective
 
 * **Context:** This project was a key component of the "Digital Humanities Interdisciplinary Talent and Smart Leadership Program."
 
@@ -15,7 +15,7 @@ This project is an end-to-end "Bilingual Campus Regulation Translation System" f
 
 * **Objective:** To create a system that combines advanced AI technologies with human-expert calibration to ensure the accuracy, professionalism, and timeliness of regulation translations, thereby improving convenience and protecting fundamental rights.
 
-## 3. My Role
+## My Role
 
 As the primary developer on this project, I was responsible for the end-to-end technical implementation of this prototype. My key contributions include:
 
@@ -28,7 +28,7 @@ As the primary developer on this project, I was responsible for the end-to-end t
 * **Testing & Validation:** Conducted tests on the system's output, making sure the system process and output correctly worked.
 
 
-## 4. System Architecture & Flow
+## System Architecture & Flow
 
 The core highlight of this system is the combination of two advanced AI techniques, RAG and Auto-CoT, supplemented by a human review loop to ensure the rigorousness required for legal/regulatory texts.
 
@@ -61,7 +61,7 @@ The core highlight of this system is the combination of two advanced AI techniqu
 
 * **Output (Final Translation):** The system outputs a verified, high-quality English regulation.
 
-## 5. Key Highlights
+## Key Highlights
 
 * **Humanity AI Driven:** The core goal is "protecting fundamental rights" and "promoting social equity," not just technology for its own sake.
 
@@ -72,7 +72,7 @@ The core highlight of this system is the combination of two advanced AI techniqu
 
 * **Expert Feedback Loop (HITL):** The system is designed with a clear optimization path, allowing it to continuously iterate and improve based on expert knowledge, ensuring long-term reliability.
 
-## 6. Technology Stack (Conceptual)
+## Technology Stack (Conceptual)
 
 * **Core Models:** LLMs (Ollama, GPT, Gemini)
 
