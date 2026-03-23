@@ -1,6 +1,3 @@
-# Bilingual Campus Regulation Translation System 
-
-
 ## Context & Objective
 
 * **Context:** This project was a key component of the "Digital Humanities Interdisciplinary Talent and Smart Leadership Program."
