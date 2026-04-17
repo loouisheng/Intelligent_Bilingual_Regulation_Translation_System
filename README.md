@@ -10,7 +10,7 @@
 
 The core highlight of this system is the combination of two advanced AI techniques, RAG and Auto-CoT, supplemented by a human review loop to ensure the rigorousness required for legal/regulatory texts.
 
-<img width="14364" height="3024" alt="翻譯系統" src="https://github.com/user-attachments/assets/f70ecf61-2503-4238-9680-b7c85873f7f7" />
+<img width="10000" height="1000" alt="翻譯系統" src="https://github.com/user-attachments/assets/f70ecf61-2503-4238-9680-b7c85873f7f7" />
 
 **System Workflow Explained:**
 
